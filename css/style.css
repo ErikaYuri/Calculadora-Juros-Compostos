@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
 
 :root {
-    --linear-gradient: linear-gradient(90deg, #38bdf8, #6d28d9, #4c1d95);
+    --linear-gradient: linear-gradient(90deg, #f8eb38, #7ed928, #1d9527);
 }
 
 * {
@@ -66,7 +66,7 @@
 .input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid #4c1d95;
+    border-bottom: 1px solid #57b422;
     color: #fff;
     font-size: 20px;
     padding: 5px;
